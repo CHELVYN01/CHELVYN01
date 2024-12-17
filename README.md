@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Chelvyn Kleden and I'm a Front-End Developer, from Indonesia</h2>
+<h2 align="left">Hi 👋! </h2>
+<h2 align="left">My name is Chelvyn Kleden and I'm a Front-End Developer, from Indonesia</h2>
 
 ###
 
